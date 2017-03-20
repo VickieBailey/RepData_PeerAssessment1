@@ -251,7 +251,7 @@ rug(perday2$steps)
 })
 ```
 ![](Reproducible_Research_Project_1_files/figure-html/Histogram for Imputed Steps per Day-1.png)<!-- -->
-
+![](RepData_PeerAssessment1/Reproducible_Research_Project_1_files/figure-html/Histogram for Imputed Steps per Day-1.png)
 * Find the mean and median number of steps taken each day.
 
 ```r

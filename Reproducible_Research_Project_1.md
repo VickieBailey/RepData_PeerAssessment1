@@ -164,8 +164,7 @@ with(perday1, {
 rug(perday1$steps)   
 })
 ```
-
-![Number of Steps](/Reproducible_Research_Project_1_files/figure-html/Number of Steps per Day-1.png)
+![](Reproducible_Research_Project_1_files/figure-html/Number of Steps per Day-1.png)<!-- -->
 
 * Find the mean and median number of steps taken each day.
 
@@ -193,7 +192,6 @@ perintplot <- ggplot(perinterval1, aes(interval, steps)) +
          title = "Average Steps per Interval")
 perintplot
 ```
-
 ![](Reproducible_Research_Project_1_files/figure-html/Time Series Plot 1-1.png)<!-- -->
 
 * Which 5-minute interval, on average across all the days in the dataset, 
@@ -252,7 +250,6 @@ with(perday2, {
 rug(perday2$steps)   
 })
 ```
-
 ![](Reproducible_Research_Project_1_files/figure-html/Histogram for Imputed Steps per Day-1.png)<!-- -->
 
 * Find the mean and median number of steps taken each day.
@@ -320,6 +317,5 @@ panelplot <- xyplot(steps ~ interval | dayorend, data = process2,
 )
 panelplot
 ```
-
 ![](Reproducible_Research_Project_1_files/figure-html/Time Series Plot 2-1.png)<!-- -->
 

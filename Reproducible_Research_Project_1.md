@@ -165,7 +165,7 @@ rug(perday1$steps)
 })
 ```
 
-![](Reproducible_Research_Project_1_files/figure-html/Number of Steps per Day-1.png)<!-- -->
+![](/Reproducible_Research_Project_1_files/figure-html/Number of Steps per Day-1.png)<!-- -->
 
 * Find the mean and median number of steps taken each day.
 

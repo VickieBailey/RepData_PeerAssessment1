@@ -194,7 +194,7 @@ perintplot <- ggplot(perinterval1, aes(interval, steps)) +
 perintplot
 ```
 
-![](Reproducible_Research_Project_1_files/figure-html/Time Series Plot 1-1.png)
+![](Reproducible_Research_Project_1_files/figure-html/Time Series Plot 1-1.png)<!-- -->
 
 * Which 5-minute interval, on average across all the days in the dataset, 
 contains the maximum number of steps?
